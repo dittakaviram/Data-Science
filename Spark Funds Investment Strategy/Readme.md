@@ -14,11 +14,7 @@ For your analysis, consider a country to be English speaking only if English is 
 
 You may use this list http://www.emmir.org/fileadmin/user_upload/admission/Countries_where_English_is_an_official_language.pdf for a list of countries where English is an official language.
 
- 
-
 These conditions will give you sufficient information for your initial analysis. Before getting to specific questions, let’s understand the problem and the data first.
-
- 
 
 ## What is the strategy?
 
