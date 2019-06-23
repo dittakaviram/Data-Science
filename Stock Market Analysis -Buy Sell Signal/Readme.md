@@ -1,1 +1,1 @@
-The aim of the project is to generate buy/sell signals using moving averages 20 day and 50 day for each stock using the individual data sets provided. This has been attempted using SQL functions in MySQL database.
+The aim of the project is to generate buy/sell signals using moving averages 20 day and 50 day for each stock using the individual data sets provided. This has been attempted using Advanced SQL functions in MySQL database.
